@@ -1,7 +1,6 @@
 n = 8
 m = n + 1
 
-# loops for upper part
 for i in range(n // 2 - 1):
     for j in range(m):
 
